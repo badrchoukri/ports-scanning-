@@ -30,5 +30,10 @@ This scanner implements a **TCP SYN Scan** (also known as a Half-Open scan). Ins
   ```bash
   pip install scapy
   ```
+## Save the results 
+
+```bash
+./scanning.py > result.txt
+```
 
   
